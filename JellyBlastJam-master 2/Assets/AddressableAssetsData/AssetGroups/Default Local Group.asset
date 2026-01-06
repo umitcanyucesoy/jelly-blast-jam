@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_GUID: 9ace305516e32884a90466b3e33a36dc
+  m_SerializeEntries:
+  - m_GUID: 305a78af3991ca548948a7fe011c4183
+    m_Address: Assets/Project/Prefabs/BallGroup.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4c8da34383db9c24cbbaf82a92b17139
+    m_Address: Assets/Project/Prefabs/Bullet.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 95c0812f4d4097640a111b46516e6eab
+    m_Address: Assets/Project/Prefabs/Ball.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: eab1f3b28b1246c4b985dc537d7139b8, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 8b0133ddb1f1ea24e8114d7b958fb512, type: 2}
+    - {fileID: 11400000, guid: d1a674545ae674d40ad80e8bc74a6759, type: 2}
